@@ -1,9 +1,22 @@
-{
- "gameID": "",
- "name": "",
- "image": "",
- "achievements": "",
- "unlocked": "",
- "progression": "",
- "console": "",
-}
+[
+  {
+    "gameID": 7994,
+    "name": "Guitar Hero",
+    "image": "https://media.retroachievements.org//Images/070460.png",
+    "totalAchievements": 79,
+    "unlocked": 12,
+    "progression": 15,
+    "console": "PlayStation 2",
+    "consoleImage": "https://static.retroachievements.org/assets/images/system/ps2.png"
+  },
+  {
+    "gameID": 19265,
+    "name": "Lord of the Rings, The: The Two Towers",
+    "image": "https://media.retroachievements.org//Images/064300.png",
+    "totalAchievements": 90,
+    "unlocked": 10,
+    "progression": 11,
+    "console": "PlayStation 2",
+    "consoleImage": "https://static.retroachievements.org/assets/images/system/ps2.png"
+  }
+]
